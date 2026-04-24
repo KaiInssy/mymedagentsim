@@ -1,0 +1,1650 @@
+2026-04-18 17:58:07,589 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:11,521 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:16,623 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:20,359 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:23,860 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:29,071 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:33,337 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:38,022 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:41,930 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 17:58:45,367 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning[problem['correct_answer']]}
+KeyError: None
+2026-04-18 18:16:03,219 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:07,574 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:12,260 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:16,991 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:20,618 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:25,440 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:31,423 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:36,716 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:41,235 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:16:46,199 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:03,845 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:06,381 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:10,600 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:14,972 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:18,615 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:21,461 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:25,771 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:28,884 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:32,681 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:26:35,415 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:37:25,132 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:37:29,358 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:37:33,368 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:37:42,273 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:37:50,906 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:37:54,289 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:37:58,552 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:38:07,142 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:38:14,978 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 18:38:26,069 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:06,869 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:10,922 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:20,200 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:27,290 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:32,459 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:41,672 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:47,453 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:53,277 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:12:58,631 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:13:07,368 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:29:43,693 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:29:46,534 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:29:49,083 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:29:52,490 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:29:57,362 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:30:00,424 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:30:04,063 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:30:07,383 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:30:11,985 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:30:14,761 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:41:35,641 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:41:39,686 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:41:44,531 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:41:48,257 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:41:53,667 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:41:58,751 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:42:04,590 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:42:11,243 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:42:15,321 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 19:42:21,654 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:10:59,365 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:04,737 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:08,900 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:14,075 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:19,526 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:24,582 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:29,675 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:36,370 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:41,306 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:11:46,031 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:10,138 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:15,822 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:19,713 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:26,006 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:32,761 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:36,832 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:41,847 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:46,812 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:51,799 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 20:31:55,715 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:02:48,062 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:02:51,955 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:02:55,385 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:03:00,819 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:03:04,823 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:03:11,189 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:03:14,979 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:03:19,326 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:03:25,527 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:03:29,449 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:17,923 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:22,844 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:28,017 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:36,058 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:41,097 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:45,939 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:50,339 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:54,716 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:13:58,360 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
+2026-04-18 21:14:07,798 [MainThread  ] [ERROR]  Error occurred during run_batch_jobs.
+Traceback (most recent call last):
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\utils.py", line 93, in run_batch_jobs
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 604, in solve
+    reflect_phase(options, problem, output, backend)
+  File "E:\medagentsim\MedAgentSim\MedPromptSimulate\src\promptbase\mmlu\experiment.py", line 633, in reflect_phase
+    Correct Reasoning: {correct_reasoning.get(problem.get('correct_answer'), 'No standard reasoning available.')}
+KeyError: None
